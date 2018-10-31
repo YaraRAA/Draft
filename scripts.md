@@ -8,3 +8,9 @@
 6. Extracting temporal variables from netCDF data.
 7. Creating a table that contains all grid-days combinations and adding all required data to this table (AOD data, spatial variables, and temporal variables).
 8. Joining to the PM monitors data from all variables collected  (joining by location and day).
+scripts for downloading and extracting CaMS data
+scripts for downloading and extracting MERRA2 data
+scripts for downloading and extracting NACEP data
+scripts for creating raster files
+scripts for tuning machine learners and doing geographically weighted ensemble averages
+scripts for filling in missing variables other than AOD
